@@ -1,0 +1,90 @@
+[
+    {
+        "id": "financial_fraud_001",
+        "incident_type": "financial_fraud",
+        "title": "Immediate response to financial cyber fraud",
+        "guidance": [
+            "Report financial cyber fraud immediately by calling 1930.",
+            "Use the National Cyber Crime Reporting Portal at https://www.cybercrime.gov.in/.",
+            "Keep the transaction ID, transaction date, amount, bank or wallet details, and available transaction screenshots ready.",
+            "Contact your bank or payment provider through its official channel."
+        ],
+        "source_name": "National Cyber Crime Reporting Portal",
+        "source_url": "https://www.cybercrime.gov.in/",
+        "keywords": [
+            "UPI",
+            "payment",
+            "money lost",
+            "bank",
+            "transaction",
+            "financial fraud"
+        ]
+    },
+    {
+        "id": "evidence_001",
+        "incident_type": "evidence_preservation",
+        "title": "Preserve cybercrime evidence",
+        "guidance": [
+            "Keep original messages, emails, transaction receipts, screenshots, relevant URLs, and chat transcripts.",
+            "Record the incident date and time when known.",
+            "Keep original files unchanged and work with copies when preparing a summary.",
+            "Review extracted information against the original evidence before using it in a complaint."
+        ],
+        "source_name": "National Cyber Crime Reporting Portal FAQ",
+        "source_url": "https://cybercrime.gov.in/webform/FAQ.aspx",
+        "keywords": [
+            "evidence",
+            "screenshot",
+            "email",
+            "chat",
+            "receipt",
+            "transaction ID"
+        ]
+    },
+    {
+        "id": "general_reporting_001",
+        "incident_type": "general_cybercrime",
+        "title": "Report other cybercrime",
+        "guidance": [
+            "Use the official National Cyber Crime Reporting Portal to find the appropriate reporting category.",
+            "Provide accurate incident details and relevant supporting evidence.",
+            "Review all details before submitting a complaint through the official portal."
+        ],
+        "source_name": "National Cyber Crime Reporting Portal FAQ",
+        "source_url": "https://cybercrime.gov.in/webform/FAQ.aspx",
+        "keywords": [
+            "phishing",
+            "hacking",
+            "social media",
+            "account compromise",
+            "online harassment"
+        ]
+    },
+    {
+        "id": "phishing_guidance_001",
+        "incident_type": "general_cybercrime",
+        "title": "Guidance for phishing and suspicious emails",
+        "guidance": [
+            "Do not click suspicious links or open unexpected attachments.",
+            "Preserve the original email, including the sender address, subject, date, time, and full email headers when available.",
+            "Record suspicious URLs without opening them.",
+            "If you entered a password on a suspicious website, change it using the official website and enable multi-factor authentication where available.",
+            "If you shared banking information or lost money, contact your bank immediately and report financial cyber fraud by calling 1930 in India.",
+            "Report the incident through the official National Cyber Crime Reporting Portal and review all details before submission."
+        ],
+        "source_name": "National Cyber Crime Reporting Portal FAQ",
+        "source_url": "https://cybercrime.gov.in/webform/FAQ.aspx",
+        "keywords": [
+            "phishing",
+            "suspicious email",
+            "sender address",
+            "malicious link",
+            "account verification",
+            "account suspension",
+            "email headers",
+            "attachment",
+            "password theft",
+            "scam message"
+        ]
+    }
+]

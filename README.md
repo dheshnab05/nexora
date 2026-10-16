@@ -1,4 +1,4 @@
-# Nexora — Intelligent Cybercrime Response and Evidence Guidance System
+# Nexora: Intelligent Cybercrime Response and Evidence Guidance System
 
 **When cybercrime happens, know your next move.**
 
@@ -135,6 +135,3 @@ https://cybercrime.gov.in/
 - Secure integration between the local application and cloud services.
 - Automated testing and deployment.
 
-## License
-
-No license has been specified. A license can be added after deciding how the project may be reused or distributed.
